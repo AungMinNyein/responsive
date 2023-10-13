@@ -1,0 +1,65 @@
+/*header*/
+#header{
+	background-image: url(../image/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#header h1{
+	color: #323338;
+	font-size: 3em;
+	text-align: center;
+	margin-top: 10%;
+}
+#header h3{
+	color: #323338;
+	font-size: 1.5em;
+	text-align: center;
+	margin-bottom: 7%;
+}
+#header .large{
+	width: 90%;
+	margin-left: 5%;
+	margin-bottom: 10%;
+}
+.large .btn{
+	width: 20%;
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+
+}
+#header .small{
+	width: 90%;
+	margin-left: 17%;
+	margin-bottom: 10%;
+}
+.small .btn{
+	width: 15%;
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+}
+#header .btn:hover{
+	color: red;
+}
+
+/*image gallery*/
+#image-gallery .btn{
+	background-color: black;
+	color: white;
+	margin-top: 5%;
+}
+#image-gallery p{
+	text-align: justify;
+	margin-top: 10%;
+}
+
+#image-gallery h1{
+	margin: 10% 0 5% 0;
+}
+#image-gallery img{
+	width: 450px;
+	height: 200px;
+	margin-top: 20px;
+}
