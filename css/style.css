@@ -3,6 +3,7 @@
 	background-image: url(../image/header.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	margin-left: 5%;
 }
 
 #header h1{
@@ -62,4 +63,57 @@
 	width: 450px;
 	height: 200px;
 	margin-top: 20px;
+}
+#section-one img{
+	width: 700px;
+	height: 100px;
+	border-radius: 20px;
+}
+#section-one a{
+	color: red;
+}
+#section-two{
+	margin-top: 10%;
+	background-color: black;
+}
+#section-two img{
+	width: 120px;
+	height: 100px;
+	padding-right: 5%;
+	border-radius: 20%;
+}
+#section-two .container{
+	padding-top: 5%;
+}
+.img-two,.img-three{
+	margin-top: 3%;
+}
+#section-two a{
+	color: red;
+}
+#section-two li{
+	list-style-type: none;
+	margin-top: 3%;
+}
+#section-two h1{
+	color: aliceblue;
+	margin-left: 7%;
+}
+#section-two p{
+	margin-left: 7%;
+	margin-top: 2%;
+}
+#section-two img{
+	margin-top: 3%;
+}
+#footer{
+	background-color: black;
+}
+#footer p{
+	text-align: center;
+	color: antiquewhite;
+	border-top: 1px solid white;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-style: italic;
 }
